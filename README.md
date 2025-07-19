@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2048-build-array-from-permutation](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -33,5 +34,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2048-build-array-from-permutation](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
