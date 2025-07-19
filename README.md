@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0001-two-sum) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0001-two-sum) |
 | [1635-number-of-good-pairs](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Math
