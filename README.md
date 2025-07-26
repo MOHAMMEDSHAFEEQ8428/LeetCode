@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
