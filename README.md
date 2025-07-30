@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Prefix Sum
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
