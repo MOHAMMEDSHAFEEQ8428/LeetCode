@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2048-build-array-from-permutation](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/2058-concatenation-of-array) |
+| [3227-find-missing-and-repeated-values](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0217-contains-duplicate) |
 | [1635-number-of-good-pairs](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [3227-find-missing-and-repeated-values](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0066-plus-one) |
 | [1635-number-of-good-pairs](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [3227-find-missing-and-repeated-values](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting
 |  |
 | ------- |
@@ -101,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0035-search-insert-position) |
+## Matrix
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
