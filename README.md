@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0014-longest-common-prefix) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -118,5 +120,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
