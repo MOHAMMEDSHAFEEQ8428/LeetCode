@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0231-power-of-two) |
 | [1635-number-of-good-pairs](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0231-power-of-two) |
 ## String Matching
 |  |
 | ------- |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0010-regular-expression-matching) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
