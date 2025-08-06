@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0342-power-of-four) |
 | [1635-number-of-good-pairs](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0342-power-of-four) |
 ## String Matching
 |  |
 | ------- |
@@ -130,4 +132,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
