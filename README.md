@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0326-power-of-three) |
 | [1635-number-of-good-pairs](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0326-power-of-three) |
 ## String Matching
 |  |
 | ------- |
