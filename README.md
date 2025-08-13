@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0058-length-of-last-word) |
+| [0132-palindrome-partitioning-ii](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0344-reverse-string](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0742-to-lower-case) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0132-palindrome-partitioning-ii](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
