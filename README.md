@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0792-binary-search) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/1580-shuffle-the-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0344-reverse-string) |
 ## Trie
 |  |
