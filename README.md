@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0792-binary-search) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
