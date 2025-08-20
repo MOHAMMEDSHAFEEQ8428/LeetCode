@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0066-plus-one) |
+| [0224-basic-calculator](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0342-power-of-four) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0058-length-of-last-word) |
 | [0132-palindrome-partitioning-ii](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
+| [0224-basic-calculator](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0742-to-lower-case) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0020-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0224-basic-calculator) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0224-basic-calculator](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0342-power-of-four) |
