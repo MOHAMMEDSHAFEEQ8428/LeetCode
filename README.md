@@ -144,4 +144,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0342-power-of-four) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
