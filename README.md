@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0792-binary-search) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0326-power-of-three) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0344-reverse-string) |
 ## Trie
