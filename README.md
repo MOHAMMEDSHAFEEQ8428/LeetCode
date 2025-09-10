@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0792-binary-search) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0217-contains-duplicate) |
 | [1635-number-of-good-pairs](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## String
 |  |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
@@ -166,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0101-symmetric-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
