@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0231-power-of-two) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0224-basic-calculator](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0224-basic-calculator) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0067-add-binary) |
 | [2048-build-array-from-permutation](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Stack
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0342-power-of-four) |
