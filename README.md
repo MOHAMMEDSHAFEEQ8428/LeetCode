@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0231-power-of-two) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0070-climbing-stairs](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0070-climbing-stairs) |
 | [0132-palindrome-partitioning-ii](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 ## Bit Manipulation
 |  |
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0169-majority-element) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
