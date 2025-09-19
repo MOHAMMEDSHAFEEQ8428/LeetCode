@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0342-power-of-four) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting
