@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0035-search-insert-position) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MOHAMMEDSHAFEEQ8428/LeetCode/tree/master/0217-contains-duplicate) |
